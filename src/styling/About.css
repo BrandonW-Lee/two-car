@@ -1,0 +1,40 @@
+.mainpicture {
+  display: block;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.bottom-left {
+  /* position: relative; */
+  /* About */
+
+  position: absolute;
+  width: 230px;
+  height: 66px;
+  /* left: calc(50% - 530px / 2 - 501px); */
+  left: 200px;
+  top: 557px;
+
+  font-family: "SF Pro Display";
+  font-display: "small";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 66px;
+  /* identical to box height, or 103% */
+  letter-spacing: 1px;
+
+  color: #ffffff;
+
+  /* bottom: 2px;
+  left: 70%; */
+}
+
+/* About */
+
+.Keo-text {
+  padding-left: 20px;
+  font-size: 18px;
+  letter-spacing: 0.75px;
+}

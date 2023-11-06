@@ -1,5 +1,17 @@
-.AppContainer{
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
+.AppContainer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.Footer {
+  position: fixed;
+  bottom: 0;
+}
+
+.Contacts {
+  min-height: 70vh;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
 }
